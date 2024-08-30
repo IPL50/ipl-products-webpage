@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
+<
+</html><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -112,20 +115,20 @@
     </div>
 
     <div class="status-bar">
-        <span>Running Status: All systems are operational and up-to-date with the latest products and updates from IPL.</span>
+        <span>Running Status:IPL-274 (2000KVA/22KV/6600V) IPL-273 (200KVA/6600KV/433V).</span>
     </div>
 
     <div class="content">
         <h2>Welcome to IPL Products</h2>
-        <p>Explore our range of IPL products and stay tuned for the latest updates and promotions.</p>
+        <p>Your trusted source for cutting edge electrical solutions and engineering excellence.  I.P.L. PRODUCTS is the Name for Quality and Service, by “Serving the Power Sectors” for more than 50 years.</p>
     </div>
 
     <div class="table-container">
         <table>
             <thead>
                 <tr>
-                    <th>Column 1</th>
-                    <th>Column 2</th>
+                    <th>RATINGS</th>
+                    <th>W.O. NUMBER</th>
                 </tr>
             </thead>
             <tbody>
@@ -147,3 +150,5 @@
     </div>
 </body>
 </html>
+
+     
